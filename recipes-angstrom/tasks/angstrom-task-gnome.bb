@@ -41,6 +41,7 @@ RDEPENDS_task-gnome = " \
   gpe-scap \
   bash \ 
   tzdata \
+  gedit \
 "
 
 RRECOMMENDS_task-gnome = "ofono"
