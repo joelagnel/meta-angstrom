@@ -17,6 +17,8 @@ IMAGE_INSTALL += " \
 	systemd-compat-units \
 	cpufrequtils \
 	beagleboard-test-scripts \
+	gstreamer-ti \
+	ti-dmai-apps \
     htop \
 "
 
