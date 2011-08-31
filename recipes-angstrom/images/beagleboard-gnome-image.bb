@@ -1,5 +1,7 @@
 require beagleboard-image.bb
 
+PR = "r1"
+
 IMAGE_INSTALL += " \
 	angstrom-task-gnome \
 	task-xserver \
