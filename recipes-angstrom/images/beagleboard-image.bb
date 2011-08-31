@@ -21,6 +21,7 @@ IMAGE_INSTALL += " \
 	gstreamer-ti \
 	ti-dmai-apps \
 	u-boot \
+	x-load \
     htop \
 "
 
