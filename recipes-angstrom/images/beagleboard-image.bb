@@ -35,4 +35,4 @@ IMAGE_LOGIN_MANAGER = "tinylogin shadow"
 
 export IMAGE_BASENAME = "beagleboard-image"
 
-inherit image
+inherit sdcard_image

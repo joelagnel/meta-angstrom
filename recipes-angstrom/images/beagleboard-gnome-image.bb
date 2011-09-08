@@ -1,6 +1,6 @@
 require beagleboard-image.bb
 
-PR = "r1"
+PR = "r2"
 
 IMAGE_INSTALL += " \
 	angstrom-task-gnome \
