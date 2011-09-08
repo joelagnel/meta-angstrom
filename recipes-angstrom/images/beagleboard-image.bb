@@ -5,8 +5,6 @@ LIC_FILES_CHKSUM = "file://${COREBASE}/LICENSE;md5=3f40d7994397109285ec7b81fdeb3
 
 IMAGE_PREPROCESS_COMMAND = "rootfs_update_timestamp"
 
-DEPENDS = "genext2fs"
-
 IMAGE_INSTALL += " \
 	angstrom-task-boot \
 	angstrom-zeroconf-audio \
